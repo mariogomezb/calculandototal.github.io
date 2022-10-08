@@ -1,0 +1,15 @@
+.valores{
+    display: flex;
+    justify-content: center;
+}
+
+#colorFinal{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+
+.table{
+    display: none;
+    margin-top: 200px;
+}
